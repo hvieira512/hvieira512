@@ -41,4 +41,4 @@
 
 [website]: https://coisascomgosto.com
 [instagram]: https://instagram.com/hvieira512/
-[linkedin]: https://linkedin.com/hugovieira0512
+[linkedin]: https://linkedin.com/in/hugovieira0512
