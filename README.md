@@ -1,12 +1,11 @@
 ### Hi there, I'm Hugo Vieira 👋
 
 ## I'm a Student
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔨 I'm currently working on a [Coisas Com Gosto][website]!
+- 🏫 I'm currently learning Java at school ☕
+- 👯 I'm looking to collaborate with other developers
+- 🥅 2021 Goals: Learn more about CSS
+- 🎧 Fun fact: I love to cooperate with others instead of doing stuff alone
 
 ### Connect with me:
 
