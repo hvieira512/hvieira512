@@ -4,7 +4,7 @@
 - 🔨 I'm currently working on a [Coisas Com Gosto][website]!
 - 🏫 I'm currently learning Java at IPVC-ESTG ☕
 - 👯 I'm looking to collaborate with other developers
-- 🥅 2021 Goals: Learn more about CSS
+- 🥅 2022 Goals: Learn more about discipline
 - 🧑‍🤝‍🧑 Fun fact: I love to cooperate with others instead of doing stuff alone
 
 ### Connect with me:
