@@ -2,9 +2,9 @@
 
 ## I'm a Student
 - 🔨 I'm currently working on a [Coisas Com Gosto][website]!
-- 🏫 I'm currently learning Java at IPVC-ESTG ☕
+- 🏫 I'm currently learning at IPVC-ESTG ☕
 - 👯 I'm looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more about discipline
+- 🥅 2022 Goals: Learn more about discipline and new experiences.
 - 🧑‍🤝‍🧑 Fun fact: I love to cooperate with others instead of doing stuff alone
 
 ### Connect with me:
