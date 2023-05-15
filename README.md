@@ -4,7 +4,7 @@
 - 🔨 I'm currently working on a [Coisas Com Gosto][website]!
 - 🏫 I'm currently learning at IPVC-ESTG ☕
 - 👯 I'm looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more about discipline and new experiences.
+- 🥅 2023 Goals: Learn more about discipline and new experiences, learning out of my zone of comfort.
 - 🧑‍🤝‍🧑 Fun fact: I love to cooperate with others instead of doing stuff alone
 
 ### Connect with me:
