@@ -1,7 +1,7 @@
 ### Hi there, I'm Hugo Vieira 👋
 
-## I'm a Student
-- 🏫 I'm currently learning at IPVC-ESTG ☕
+## I'm a Software Engineer
+- 🏫 Graduated @ IPVC-ESTG ☕
 - 🥅 2024 Goals: Mastering Vim Motions, Go and React.
 - 🔨 Projects: Building CMS websites for CoisasComGosto and ACDN.
 
