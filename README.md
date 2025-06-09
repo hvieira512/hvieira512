@@ -2,8 +2,8 @@
 
 ## I'm a Software Engineer
 - 🏫 Graduated @ IPVC-ESTG ☕
-- 🥅 2024 Goals: Mastering Vim Motions, Go and React.
-- 🔨 Projects: Building CMS websites for CoisasComGosto and ACDN.
+- 🥅 2025 Goals: Mastering Vim Motions, Go and React.
+- 🔨 Projects: Building CMS websites for CoisasComGosto.
 
 ### Connect with me:
 
